@@ -21,7 +21,3 @@ Challenges
 What problem it hope to solve
 What the intended use is
 Credit
-
-this is henry typing
-
-this is henry typing
