@@ -24,4 +24,4 @@ Credit
 
 this is henry typing
 
-this is henry typin
+this is henry typing
