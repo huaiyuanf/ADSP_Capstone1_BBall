@@ -20,6 +20,8 @@ Limitation
 Challenges
 What problem it hope to solve
 What the intended use is
-Credits
+Credit
 
 this is henry typing
+
+this is henry typin
