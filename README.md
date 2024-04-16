@@ -22,4 +22,4 @@ What problem it hope to solve
 What the intended use is
 Credits
 
-this is henry typing
+this is henry
